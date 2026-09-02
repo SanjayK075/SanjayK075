@@ -1,4 +1,4 @@
-# Hey, I'm Sanjay 👋
+# I'm Sanjay 👋
 
 A passionate Computer Science student and aspiring Software Engineer who loves building scalable systems, writing clean code, and exploring the intersection of web development and Artificial Intelligence.
 
