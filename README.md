@@ -1,17 +1,17 @@
 <p align="center">
-  <img src="./hero.svg" width="100%" alt="Sanjay K. Full-Stack Developer, Applied AI Engineer, IoT and Cloud Builder. B.Tech CSE (IoT), VIT Vellore, Class of 2027."/>
+  <img src="https://raw.githubusercontent.com/SanjayK075/SanjayK075/main/hero.svg" width="100%" alt="Sanjay K. Full-Stack Developer, Applied AI Engineer, IoT and Cloud Builder. B.Tech CSE (IoT), VIT Vellore, Class of 2027."/>
 </p>
 
 <p align="center">
-  <img src="./terminal.svg" width="100%" alt="whoami: Sanjay K, full-stack developer working on applied AI and IoT. B.Tech CSE (IoT) at VIT Vellore, 2023 to 2027. Focus: LLM products, real-time web apps, edge-to-cloud systems. Speaks Tamil, English and Hindi (read and write)."/>
+  <img src="https://raw.githubusercontent.com/SanjayK075/SanjayK075/main/terminal.svg" width="100%" alt="whoami: Sanjay K, full-stack developer working on applied AI and IoT. B.Tech CSE (IoT) at VIT Vellore, 2023 to 2027. Focus: LLM products, real-time web apps, edge-to-cloud systems. Speaks Tamil, English and Hindi (read and write)."/>
 </p>
 
 <p align="center">
-  <img src="./stack.svg" width="100%" alt="Tech stack. Languages: Python, Java, TypeScript, JavaScript, C++, C, SQL. Web and data: React, Vite, Three.js, FastAPI, REST and SSE, PostgreSQL, Redis, Supabase. AI and ML: PyTorch, scikit-learn, TensorFlow Lite, LangChain, LangGraph, RAG, Ollama, Gemini API, Groq API, MCP. Cloud, DevOps and IoT: Docker, AWS, GitHub Actions, Linux, Vercel, Render, Neon, ESP32, MQTT, Arduino."/>
+  <img src="https://raw.githubusercontent.com/SanjayK075/SanjayK075/main/stack.svg" width="100%" alt="Tech stack. Languages: Python, Java, TypeScript, JavaScript, C++, C, SQL. Web and data: React, Vite, Three.js, FastAPI, REST and SSE, PostgreSQL, Redis, Supabase. AI and ML: PyTorch, scikit-learn, TensorFlow Lite, LangChain, LangGraph, RAG, Ollama, Gemini API, Groq API, MCP. Cloud, DevOps and IoT: Docker, AWS, GitHub Actions, Linux, Vercel, Render, Neon, ESP32, MQTT, Arduino."/>
 </p>
 
 <p align="center">
-  <img src="./title-telemetry.svg" width="100%" alt="GitHub telemetry"/>
+  <img src="https://raw.githubusercontent.com/SanjayK075/SanjayK075/main/title-telemetry.svg" width="100%" alt="GitHub telemetry"/>
 </p>
 
 <p align="center">
@@ -24,15 +24,15 @@
 </p>
 
 <p align="center">
-  <img src="./certs.svg" width="100%" alt="Certifications: IBM Agentic AI, covering autonomous agents, multi-agent orchestration, RAG and MCP. Next-Generation Vehicular Communication Security, national workshop at VIT Vellore, June 2026."/>
+  <img src="https://raw.githubusercontent.com/SanjayK075/SanjayK075/main/certs.svg" width="100%" alt="Certifications and workshops: IBM Agentic AI; Next-Generation Vehicular Communication Security at VIT Vellore, June 2026; National Level One Day Hands-On Workshop on Quantum Algorithms to Quantum AI using PennyLane and Bloqade at VIT Vellore, 12 October 2026."/>
 </p>
 
 <p align="center">
-  <img src="./offline.svg" width="100%" alt="Off the keyboard: football, music and movies. Languages: Tamil, English and Hindi."/>
+  <img src="https://raw.githubusercontent.com/SanjayK075/SanjayK075/main/offline.svg" width="100%" alt="Off the keyboard: football, music and movies. Languages: Tamil, English and Hindi."/>
 </p>
 
 <p align="center">
-  <img src="./title-snake.svg" width="100%" alt="Contribution grid"/>
+  <img src="https://raw.githubusercontent.com/SanjayK075/SanjayK075/main/title-snake.svg" width="100%" alt="Contribution grid"/>
 </p>
 
 <p align="center">
@@ -44,13 +44,13 @@
 </p>
 
 <p align="center">
-  <img src="./footer.svg" width="100%" alt="Let's build something that keeps running. Open to internships and graduate roles in full-stack, applied AI and IoT."/>
+  <img src="https://raw.githubusercontent.com/SanjayK075/SanjayK075/main/footer.svg" width="100%" alt="Let's build something that keeps running. Open to internships and graduate roles in full-stack, applied AI and IoT."/>
 </p>
 
 <p align="center">
-  <a href="mailto:sanjayk17905@gmail.com"><img src="./btn-email.svg" height="58" alt="Email me"/></a>
+  <a href="mailto:sanjayk17905@gmail.com"><img src="https://raw.githubusercontent.com/SanjayK075/SanjayK075/main/btn-email.svg" height="58" alt="Email me"/></a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/sanjay-k17905"><img src="./btn-linkedin.svg" height="58" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/sanjay-k17905"><img src="https://raw.githubusercontent.com/SanjayK075/SanjayK075/main/btn-linkedin.svg" height="58" alt="LinkedIn"/></a>
 </p>
 
 <p align="center">
